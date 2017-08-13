@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{bc0b6585-78a8-4227-aaf4-7daa1863ebaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common\library">
+      <UniqueIdentifier>{ae3d4a53-4513-4022-a126-cc4d0ae368ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="windows">
+      <UniqueIdentifier>{6ba418c7-a39f-4bbb-8ad5-38710848872a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="windows\application">
+      <UniqueIdentifier>{67c706d2-5282-4625-a9c0-1daceff01dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="windows\library">
+      <UniqueIdentifier>{f2bb315e-89be-4719-a81f-31220599d707}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\common\library\data_type.h">
+      <Filter>common\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\common\library\string_x.h">
+      <Filter>common\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\library\util.h">
+      <Filter>windows\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\application\samba_dll\app_global.h">
+      <Filter>windows\application</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\common\library\tree.h">
+      <Filter>common\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\library\iconv.h">
+      <Filter>windows\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\library\ssh.h">
+      <Filter>windows\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\library\dir_event.h">
+      <Filter>windows\library</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\common\library\buf.h">
+      <Filter>common\library</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\common\library\string_x.cpp">
+      <Filter>common\library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\library\util.cpp">
+      <Filter>windows\library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\application\samba_dll\dllmain.cpp">
+      <Filter>windows\application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\application\samba_dll\app_global.cpp">
+      <Filter>windows\application</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\common\library\tree.cpp">
+      <Filter>common\library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\library\iconv.cpp">
+      <Filter>windows\library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\library\ssh.cpp">
+      <Filter>windows\library</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\library\dir_event.cpp">
+      <Filter>windows\library</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

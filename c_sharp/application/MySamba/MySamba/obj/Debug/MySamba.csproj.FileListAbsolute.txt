@@ -1,0 +1,12 @@
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\bin\Debug\MySamba.exe.config
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\bin\Debug\MySamba.exe
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\bin\Debug\MySamba.pdb
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.csprojResolveAssemblyReference.cache
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.Properties.Resources.resources
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.csproj.GenerateResource.Cache
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.exe
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.pdb
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.Form1.resources
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\bin\Debug\Newtonsoft.Json.dll
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\bin\Debug\Newtonsoft.Json.xml
+D:\project_my_samba\c_sharp\application\MySamba\MySamba\obj\Debug\MySamba.form_option.resources
